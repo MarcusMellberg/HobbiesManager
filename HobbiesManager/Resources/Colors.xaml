@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Primärfärg (för rubriker) -->
+    <SolidColorBrush x:Key="PrimaryColor" Color="#7f5539" />
+
+    <!-- Sekundärfärg -->
+    <SolidColorBrush x:Key="SecondaryColor" Color="#ede0d4" />
+
+    <!-- Accentfärg -->
+    <SolidColorBrush x:Key="AccentColor" Color="#e6ccb2" />
+
+    <!-- Textfärg -->
+    <SolidColorBrush x:Key="TextColor" Color="#333333" />
+    <!-- Håller textfärgen mörk för läsbarhet -->
+
+    <!-- Subtextfärg -->
+    <SolidColorBrush x:Key="SubtextColor" Color="#9c6644" />
+    <!-- Använd en mild nyans för kontrast -->
+
+    <!-- Bakgrundsfärg -->
+    <SolidColorBrush x:Key="BackgroundColor" Color="#f0efeb" />
+
+    <!-- Borderfärg -->
+    <SolidColorBrush x:Key="BorderColor" Color="#ddb892" />
+
+</ResourceDictionary>
+
+
+
+
+
+
+
+
+
